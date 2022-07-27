@@ -20,16 +20,18 @@
     "@nestjs/common": "^9.0.0",
     "@nestjs/config": "^2.2.0",
     "@nestjs/core": "^9.0.0",
-    "@nestjs/graphql": "^10.0.18",
+    "@nestjs/graphql": "^10.0.8",
     "@nestjs/platform-express": "^9.0.0",
     "@prisma/client": "^4.0.0",
     "apollo-server-express": "^3.10.0",
     "express-jwt": "^6.1.1",
-    "graphql": "^16.5.0",
+    "graphql": "^15.8.0",
     "jwks-rsa": "^2.1.4",
     "reflect-metadata": "^0.1.13",
     "rimraf": "^3.0.2",
-    "rxjs": "^7.2.0"
+    "rxjs": "^7.2.0",
+    "slugify": "^1.6.5",
+    "ts-morph": "^15.1.0"
   },
   "devDependencies": {
     "@nestjs/cli": "^9.0.0",
